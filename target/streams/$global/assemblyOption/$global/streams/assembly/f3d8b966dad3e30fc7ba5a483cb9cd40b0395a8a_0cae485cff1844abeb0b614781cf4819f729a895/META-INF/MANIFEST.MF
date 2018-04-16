@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: akka-http-cors
+Implementation-Version: 0.1.8
+Specification-Vendor: ch.megard
+Specification-Title: akka-http-cors
+Implementation-Vendor-Id: ch.megard
+Specification-Version: 0.1.8
+Implementation-Vendor: ch.megard
+

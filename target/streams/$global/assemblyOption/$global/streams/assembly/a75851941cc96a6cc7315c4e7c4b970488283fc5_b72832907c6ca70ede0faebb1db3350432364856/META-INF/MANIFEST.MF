@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: scala-stm
+Implementation-Version: 0.8
+Specification-Vendor: org.scala-stm
+Specification-Title: scala-stm
+Implementation-Vendor-Id: org.scala-stm
+Specification-Version: 0.8
+Implementation-Vendor: org.scala-stm
+

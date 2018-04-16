@@ -1,0 +1,6 @@
+---
+applications:
+- name: neo4j-scala-akkahttp
+  memory: 768M
+  instances: 1
+  random-route: true

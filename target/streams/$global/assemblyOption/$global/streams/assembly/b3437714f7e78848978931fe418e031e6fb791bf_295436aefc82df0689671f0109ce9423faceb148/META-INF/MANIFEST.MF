@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: authentikat-jwt
+Implementation-Version: 0.4.5
+Specification-Vendor: com.jason-goodwin
+Specification-Title: authentikat-jwt
+Implementation-Vendor-Id: com.jason-goodwin
+Specification-Version: 0.4.5
+Implementation-Vendor: com.jason-goodwin
+

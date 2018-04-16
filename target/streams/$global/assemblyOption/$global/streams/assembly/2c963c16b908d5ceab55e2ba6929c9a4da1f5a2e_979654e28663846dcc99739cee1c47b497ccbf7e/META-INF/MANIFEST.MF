@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: org.reactivemongo
+Implementation-Title: ReactiveMongo-Shaded
+Implementation-Version: 0.12.7
+Implementation-Vendor-Id: org.reactivemongo
+Specification-Vendor: org.reactivemongo
+Specification-Title: ReactiveMongo-Shaded
+Implementation-URL: http://reactivemongo.org
+Specification-Version: 0.12.7
+

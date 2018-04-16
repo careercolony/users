@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0.4-703afe82517a65f5f766de7d1271412085d2b824
+Built-By: teamcity
+Build-Jdk: 1.7.0_95
+Package: org/neo4j/driver
+Created-By: Apache Maven 3.3.9
+Archiver-Version: Plexus Archiver
+
